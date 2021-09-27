@@ -7,7 +7,9 @@
         <entry key="..\:/EReporta/app/src/main/res/drawable/ic_reporta.xml" value="0.14814814814814814" />
         <entry key="..\:/EReporta/app/src/main/res/drawable/rounded_corner_rectangle.xml" value="0.2574074074074074" />
         <entry key="..\:/EReporta/app/src/main/res/drawable/splash_screen_background.xml" value="0.14814814814814814" />
-        <entry key="..\:/EReporta/app/src/main/res/layout/activity_main.xml" value="0.17760416666666667" />
+        <entry key="..\:/EReporta/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/EReporta/app/src/main/res/layout/fragment_basic_sign_up.xml" value="0.34739583333333335" />
+        <entry key="..\:/EReporta/app/src/main/res/layout/fragment_detail_sign_up.xml" value="0.33" />
       </map>
     </option>
   </component>
